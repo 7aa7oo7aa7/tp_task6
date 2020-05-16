@@ -1,9 +1,9 @@
-Запуск на Linux:
+**Запуск на Linux:**
 
-chmod u+x app
+1. chmod u+x app
 
-./app
+2. ./app
 
-Результат:
+**Результат:**
 
 Goodbye world!
